@@ -4,6 +4,7 @@
 # another one to handle posts.
 # To encrypt strings use the following endpoint:
 # https://api.staticman.net/v2/encrypt/{TEXT TO BE ENCRYPTED}
+#
 
 comments:
   # (*) REQUIRED
