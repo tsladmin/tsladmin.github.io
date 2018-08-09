@@ -6,12 +6,10 @@ header:
   overlay_image: /assets/images/battle_splash.jpg
 ---
 
-# Heading
-
-**BLAH BLAH BLAH**
-
 {% for post in paginator.posts %}
   {% include archive-single.html %}
 {% endfor %}
 
 {% include paginator.html %}
+
+BLAH BLAH BLAH
