@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 excerpt: 'Tips, strategies, and recommendations for growth and success in Iron Throne'
 header:
-  overlay_image: /assets/images/battle_splash.jpg
+  image: /assets/images/battle_splash.jpg
 ---
 
 {% for post in paginator.posts %}
