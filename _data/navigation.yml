@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Wicked"
-    url: https://www.jamesonwhiskey.com/en-US/
+  - title: "Tips and Strategy"
+    url: /pages/tips-strategy/
   - title: "Videos and Links"
     url: https://tsladmin.github.io/
   # - title: "About"
