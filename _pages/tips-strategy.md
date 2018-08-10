@@ -7,7 +7,8 @@ header:
 excerpt: 'Tips, strategies, and recommendations for growth and success in Iron Throne'
 feature_row:
   - image_path: /assets/images/gear_mage.jpg
-    title: "Gear"
+    btn_label: "Gear"
+    url: /gear/
   - image_path: /assets/images/castle_island.jpg
     title: "Resources"
   - image_path: /assets/images/general_castle.jpg
