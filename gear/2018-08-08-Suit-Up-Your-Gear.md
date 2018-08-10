@@ -1,6 +1,7 @@
 ---
 layout: posts
 title:  "Suit Up Your Gear!"
+excerpt: "Increasing the effectiveness of your gear."
 date:   2018-08-08 08:55:00 -0500
 categories: tips
 tags:
