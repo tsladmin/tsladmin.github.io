@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /pages/tips-strategy/
+permalink: /tips-strategy/
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/battle_splash.jpg
