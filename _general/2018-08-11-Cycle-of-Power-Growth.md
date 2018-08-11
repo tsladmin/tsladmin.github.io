@@ -1,6 +1,6 @@
 ---
 layout: posts
-title "The Cycle of Power Growth"
+title: "The Cycle of Power Growth"
 excerpt: "Optimizing power growth."
 categories: tips
 tags:
