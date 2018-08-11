@@ -5,7 +5,7 @@ permalink: /gear/
 author_profile: true
 ---
 
-{% for gear in site.gear %}
-    <h2>{{ gear.title }}</h2>
+{% for gear in site.collections %}
+    <h2 id="{{label | slugify }}" class="archive__subtitle">{{ gear.label }}</h2>
     {{ label }}
 {% endfor %}
