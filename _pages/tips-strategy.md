@@ -10,10 +10,10 @@ feature_row:
     btn_label: "Gear"
     url: /gear/
   - image_path: /assets/images/castle_island.jpg
-    title: "Resources"
+    btn_label: "Resources"
     url: /resources/
   - image_path: /assets/images/general_castle.jpg
-    title: "General"
+    btn_label: "General"
     url: /general/
 ---
 

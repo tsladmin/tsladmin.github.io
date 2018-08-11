@@ -302,7 +302,7 @@ defaults:
       author_profile: true
   # _gear
   - scope:
-      path: ""
+      path: "_gear"
       type: gear
     values:
       layout: single
@@ -311,7 +311,7 @@ defaults:
       comment: false
   # _resources
   - scope:
-      path: ""
+      path: "_resources"
       type: resources
     values:
       layout: single
@@ -320,7 +320,7 @@ defaults:
       comment: false
   # _general
   - scope:
-      path: ""
+      path: "_general"
       type: general
     values:
       layout: single

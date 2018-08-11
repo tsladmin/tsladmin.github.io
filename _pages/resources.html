@@ -5,7 +5,7 @@ permalink: /resources/
 author_profile: true
 ---
 
-{% for resources in site.resources %}
-    <h2><a href="{{resources.url}}">{{ resources.title }}</a></h2>
-    {{ resources.excerpt }}
+{% for resource in site.resources %}
+    <h2><a href="{{resource.url}}">{{ resource.title }}</a></h2>
+    {{ resource.excerpt }}
 {% endfor %}
