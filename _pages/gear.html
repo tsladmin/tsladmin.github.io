@@ -6,6 +6,6 @@ author_profile: true
 ---
 
 {% for gear in site.gear %}
-    <h2 id="{{label | slugify }}" class="archive__subtitle">{{ gear.title }}</h2>
+    <h2><a href="{{gear.url}}">{{ gear.title }}</a></h2>
     {{ gear.excerpt }}
 {% endfor %}
