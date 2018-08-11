@@ -3,7 +3,7 @@ main:
   - title: "Tips and Strategy"
     url: /tips-strategy/
   - title: "Videos and Links"
-    url: https://tsladmin.github.io/
+    url: /vids/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
