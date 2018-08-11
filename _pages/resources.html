@@ -1,0 +1,11 @@
+---
+layout: archive
+title: "Resources"
+permalink: /resources/
+author_profile: true
+---
+
+{% for resources in site.resources %}
+    <h2><a href="{{resources.url}}">{{ resources.title }}</a></h2>
+    {{ resources.excerpt }}
+{% endfor %}

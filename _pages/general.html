@@ -1,0 +1,11 @@
+---
+layout: archive
+title: "General"
+permalink: /general/
+author_profile: true
+---
+
+{% for general in site.general %}
+    <h2><a href="{{general.url}}">{{ general.title }}</a></h2>
+    {{ general.excerpt }}
+{% endfor %}

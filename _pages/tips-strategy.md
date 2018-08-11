@@ -11,8 +11,10 @@ feature_row:
     url: /gear/
   - image_path: /assets/images/castle_island.jpg
     title: "Resources"
+    url: /resources/
   - image_path: /assets/images/general_castle.jpg
     title: "General"
+    url: /general/
 ---
 
 {% include feature_row %}
