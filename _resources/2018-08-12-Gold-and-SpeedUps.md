@@ -32,7 +32,7 @@ There are different types of speed ups each of which have a different function:
 
 Construction, research, and healing are self explanatory and single use. The best place to obtain these is in town mode doing the daily tasks. Do them all; every day. The only additional comment on these three might be to not completely heal all your troops at one time with the healing speed up. You will have a daily task to heal 1,000 troops and this is an easy one to finish up with low level troops and costs nothing. Save some healing for this task.
 
-The general speed ups are a bit more flexible. Many here have found that using these for research yields the best results. Research is what gives you the attack/defend power than does not go down when you lose troops. It also buffs up your resource creation and gathering, assists with hunting and marching speeds, aides in rallies, etc. Using speed-ups to build troops is not recommended. They are gonna die, it's a fact, but they can always be replaced. A solid recommendation for using generic speed-ups is:
+The general speed ups are a bit more flexible. Many here have found that using these for research yields the best results. Research is what gives you the attack/defend power that does not go down when you lose troops. It also buffs up your resource creation and gathering, assists with hunting and marching speeds, aides in rallies, etc. Using speed-ups to build troops is not recommended. They are gonna die, it's a fact, but they can always be replaced. A solid recommendation for using generic speed-ups is:
 - 80% research
 - 10% building (especially when you get up around 23/24)
 - 10% crafting (gear is the meat and potatoes of hero success)
