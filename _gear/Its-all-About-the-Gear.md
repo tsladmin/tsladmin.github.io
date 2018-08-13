@@ -1,7 +1,7 @@
-​---
+---
 layout: posts
 excerpt: "Outfit your hero with the best swag!"
-title:  "It's all About the Gear"
+title:  "Its all About the Gear"
 date:   2018-08-08 08:55:00 -0500
 categories: tips
 tags:
