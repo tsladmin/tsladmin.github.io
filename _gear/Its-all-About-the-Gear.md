@@ -7,7 +7,7 @@ categories: tips
 tags:
 - tips
 - gear
-​---
+---
 
 Starting with the second (or maybe third) update to Iron Thrones, gear began playing a much larger role in your power. Equipping and maximizing an item's potential with give your hero the edge in not just PvP battles, but dimensional and Story Mode battles as well.
 
