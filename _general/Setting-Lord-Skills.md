@@ -6,7 +6,7 @@ date:   2018-08-08 08:55:00 -0500
 categories: tips
 tags:
 - tips
-- genneral
+- general
 ---
 
 Your Lord’s Skill Presets are a HUGE time saver for maximizing growth in research/production as well as battle/raids. Swapping preset profiles  is completed as follows:
